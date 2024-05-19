@@ -1,0 +1,14 @@
+D:\cmdreturncode\ConsoleAppChild\bin\Debug\net8.0\ConsoleAppChild.exe
+D:\cmdreturncode\ConsoleAppChild\bin\Debug\net8.0\ConsoleAppChild.deps.json
+D:\cmdreturncode\ConsoleAppChild\bin\Debug\net8.0\ConsoleAppChild.runtimeconfig.json
+D:\cmdreturncode\ConsoleAppChild\bin\Debug\net8.0\ConsoleAppChild.dll
+D:\cmdreturncode\ConsoleAppChild\bin\Debug\net8.0\ConsoleAppChild.pdb
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.AssemblyInfoInputs.cache
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.AssemblyInfo.cs
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.csproj.CoreCompileInputs.cache
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.dll
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\refint\ConsoleAppChild.dll
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.pdb
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ConsoleAppChild.genruntimeconfig.cache
+D:\cmdreturncode\ConsoleAppChild\obj\Debug\net8.0\ref\ConsoleAppChild.dll
