@@ -1,0 +1,14 @@
+D:\cmdreturncode\ConsoleAppALUI\bin\Debug\net8.0\ConsoleAppALUI.exe
+D:\cmdreturncode\ConsoleAppALUI\bin\Debug\net8.0\ConsoleAppALUI.deps.json
+D:\cmdreturncode\ConsoleAppALUI\bin\Debug\net8.0\ConsoleAppALUI.runtimeconfig.json
+D:\cmdreturncode\ConsoleAppALUI\bin\Debug\net8.0\ConsoleAppALUI.dll
+D:\cmdreturncode\ConsoleAppALUI\bin\Debug\net8.0\ConsoleAppALUI.pdb
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.AssemblyInfoInputs.cache
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.AssemblyInfo.cs
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.csproj.CoreCompileInputs.cache
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.dll
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\refint\ConsoleAppALUI.dll
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.pdb
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ConsoleAppALUI.genruntimeconfig.cache
+D:\cmdreturncode\ConsoleAppALUI\obj\Debug\net8.0\ref\ConsoleAppALUI.dll
